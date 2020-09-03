@@ -1,0 +1,1 @@
+# SQL1_Operaciones_en_una_tabla
